@@ -6,7 +6,7 @@ interface Hackathon {
   name: string;
   date?: Date;
   end_date?: Date;
-  location: string;
+  location?: string;
   description?: string;
   url: string;
   registration_start_date: Date;
@@ -106,8 +106,10 @@ export async function getFormattedHackathons() {
   const hackathons: Hackathon[] = [];
   const devfolio = await fetchDevfolio();
   const devpost = await fetchDevpost();
+  const unstop = await fetchUnstop();
 
   // DEVFOLIO
+
   for (const i of devfolio.hits.hits) {
     const from = "Devfolio";
     const name = i._source.name;
@@ -165,6 +167,35 @@ export async function getFormattedHackathons() {
     });
   }
 
-  //console.log(hackathons);
+  // UNSTOP 
+
+  for (const page of unstop) {
+    for (const i of page.data.data) {
+      const from = "Unstop";
+      const url = "https://unstop.com" + i.public_url;
+      const name = i.title;
+      const date = new Date(i.start_date);
+      const end_date = new Date(i.end_date);
+      const registration_start_date = new Date(i.regnRequirements.start_regn_dt)
+      const registration_end_date = new Date(i.regnRequirements.end_regn_dt)
+      const description = i.seo_details && i.seo_details.length > 0 ? i.seo_details[0].description : '';
+      const team_size = i.regnRequirements.max_team_size ? i.regnRequirements.max_team_size : -1;
+      const team_min = i.regnRequirements.min_team_size ? i.regnRequirements.min_team_size : -1;
+
+      hackathons.push({
+        from,
+        name,
+        date,
+        end_date,
+        description,
+        url,
+        registration_start_date,
+        registration_end_date,
+        team_size,
+        team_min,
+      });
+    }
+  }
+  
   return hackathons;
 }

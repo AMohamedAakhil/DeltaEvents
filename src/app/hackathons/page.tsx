@@ -1,13 +1,12 @@
 import React from "react";
 import { getFormattedHackathons } from "@/actions/getHackathons";
-import { parseDateRange } from "@/utils/parseDate";
 
 interface HackathonCardProps {
   from: string;
   name: string;
   date?: Date;
   end_date?: Date;
-  location: string;
+  location?: string;
   description?: string;
   url: string;
   registration_start_date: Date;
@@ -144,5 +143,65 @@ async function HackathonCard(props: HackathonCardProps) {
         </div>
       </a>
     );
+  } else if (props.from == "Unstop") {
+    return (
+      <a
+        href={props.url}
+        target="_blank"
+        className="mt-5 h-[12rem] w-full space-y-2 rounded-2xl border border-slate-300 bg-slate-950 p-5 transition-all duration-100 hover:bg-slate-800"
+      >
+        <div className="truncate text-2xl font-bold">{props.name}</div>
+        <div>
+          {props.team_size != -1 ? (<div className="grid grid-cols-2 gap-3">
+            <div className="truncate text-sm">
+              <span className="font-bold">Team Size:</span> {props.team_size}
+            </div>
+            <div className="truncate text-sm">
+              <span className="font-bold">Minimum Team Size:</span>{" "}
+              {props.team_min}
+            </div>
+          </div>) : <></>}
+          <div className="grid grid-cols-2 gap-3">
+            <div className="truncate text-sm">
+              <span className="font-bold">Registration Start Date:</span>{" "}
+              {props.registration_start_date.toLocaleDateString("en-US", {
+                day: "numeric",
+                month: "short",
+                year: "numeric",
+              })}
+            </div>
+            <div className="truncate text-sm">
+              <span className="font-bold">Registration End Date:</span>{" "}
+              {props.registration_end_date.toLocaleDateString("en-US", {
+                day: "numeric",
+                month: "short",
+                year: "numeric",
+              })}
+            </div>
+          </div>
+          <div className="grid grid-cols-2 gap-3">
+            <div className="truncate text-sm">
+              <span className="font-bold">Hack Begins:</span>{" "}
+              {props.date?.toLocaleDateString("en-US", {
+                day: "numeric",
+                month: "short",
+                year: "numeric",
+              })}
+            </div>
+            <div className="truncate text-sm">
+              <span className="font-bold">Hack Ends:</span>{" "}
+              {props.end_date?.toLocaleDateString("en-US", {
+                year: "numeric",
+                month: "short",
+                day: "numeric",
+              })}
+            </div>
+          </div>
+        </div>
+        <div className="truncate text-sm">
+          <span className="font-bold">Description:</span> {props.description}
+        </div>
+      </a>
+    )
   }
 }

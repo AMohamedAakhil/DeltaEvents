@@ -237,20 +237,20 @@
             "opportunity_id": 835500,
             "banner_config": "{\"color\":\"color-bg3\",\"text\":\"Hardware Hackathon - Convergence 2023R\",\"type\":3,\"banner_data\":[3]}"
           },
-          "seo_details": [
-            {
-              "id": 549617,
-              "entity_id": 835500,
-              "entity_type": "App\\Model\\Opportunity",
-              "title": "Hardware Hackathon - Convergence 2023R by Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana!",
-              "description": "Hardware Hackathon - Convergence 2023R a hackathons by Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana open to All Apply online before 2023-12-10 00:00:00!",
-              "keywords": "",
-              "event_type": null,
-              "event_data": null,
-              "public_url": null,
-              "sharable_image_url": "https://d8it4huxumps7.cloudfront.net/lambda-pdfs/opportunity-bannerImages/1701951721.png"
-            }
-          ],
+            "seo_details": [
+              {
+                "id": 549617,
+                "entity_id": 835500,
+                "entity_type": "App\\Model\\Opportunity",
+                "title": "Hardware Hackathon - Convergence 2023R by Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana!",
+                "description": "Hardware Hackathon - Convergence 2023R a hackathons by Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana open to All Apply online before 2023-12-10 00:00:00!",
+                "keywords": "",
+                "event_type": null,
+                "event_data": null,
+                "public_url": null,
+                "sharable_image_url": "https://d8it4huxumps7.cloudfront.net/lambda-pdfs/opportunity-bannerImages/1701951721.png"
+              }
+            ],
           "jobDetail": {
             "entity_id": 835500,
             "max_salary": null,
