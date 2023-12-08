@@ -25,7 +25,7 @@ export default async function Hackathons () {
         <div className="flex flex-col md:grid md:grid-cols-2 md:gap-4 lg:grid lg:grid-cols-3 lg:gap-4">
           {
               hackathons.map((hackathon: HackathonCardProps) => {
-                  return <HackathonCard from={hackathon.from} name={hackathon.name} date={hackathon.date} end_date={hackathon.end_date} location={hackathon.location} description={hackathon.description} url={hackathon.url} team_size={hackathon.team_size} team_min={hackathon.team_min} registration_end_date={hackathon.registration_end_date} registration_start_date={hackathon.registration_end_date} />
+                  return <HackathonCard from={hackathon.from} name={hackathon.name} date={hackathon.date} end_date={hackathon.end_date} location={hackathon.location} description={hackathon.description} url={hackathon.url} team_size={hackathon.team_size} team_min={hackathon.team_min} registration_end_date={hackathon.registration_end_date} registration_start_date={hackathon.registration_start_date} />
               })
           }
         </div>
