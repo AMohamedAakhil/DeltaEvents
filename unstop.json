@@ -146,9 +146,7 @@
               "allow_coupons": 0,
               "eligibility": null,
               "payout_data": null,
-              "gender": [
-                "A"
-              ],
+              "gender": ["A"],
               "vendor_id": null,
               "verified_email": 1,
               "verified_mobile": 1,
@@ -706,9 +704,7 @@
               "allow_coupons": 0,
               "eligibility": null,
               "payout_data": null,
-              "gender": [
-                "A"
-              ],
+              "gender": ["A"],
               "vendor_id": null,
               "verified_email": 1,
               "verified_mobile": 1,
@@ -1720,9 +1716,7 @@
           },
           "seo_url": "https://unstop.com/hackathons/rechersion-23-nitk-surathkal-825210",
           "status": "LIVE",
-          "tags": [
-            "Hackathon On D2C"
-          ],
+          "tags": ["Hackathon On D2C"],
           "thumb": null,
           "banner_mobile": {
             "id": 1191963,
@@ -1919,10 +1913,7 @@
           },
           "seo_url": "https://unstop.com/hackathons/stibo-systems-hackathon-stibo-systems-832909",
           "status": "LIVE",
-          "tags": [
-            "Quiz On D2C",
-            "Hackathon On D2C"
-          ],
+          "tags": ["Quiz On D2C", "Hackathon On D2C"],
           "thumb": null,
           "banner_mobile": {
             "id": 1191238,
@@ -2217,9 +2208,7 @@
               "allow_coupons": 0,
               "eligibility": "{\"sector\":[\"students\",\"school\",\"fresher\"],\"engineering\":[\"all\",\"allCourses\"],\"bSchools\":[\"all\",\"allCourses\"],\"arts\":[\"all\",\"allCourses\"],\"passout\":[\"all\",\"allCourses\"],\"others\":[\"all\",\"allCourses\"],\"fresherPassoutYearsSelected\":[\"all\",\"allCourses\"],\"overallPassoutYear\":[{\"engineering\":{\"passoutYear\":{}},\"bSchools\":{\"passoutYear\":{}},\"arts\":{\"passoutYear\":{}}}],\"experience\":[\"all\",\"allCourses\"]}",
               "payout_data": null,
-              "gender": [
-                "A"
-              ],
+              "gender": ["A"],
               "vendor_id": null,
               "verified_email": 1,
               "verified_mobile": 1,
@@ -2509,9 +2498,7 @@
               "allow_coupons": 0,
               "eligibility": null,
               "payout_data": null,
-              "gender": [
-                "A"
-              ],
+              "gender": ["A"],
               "vendor_id": null,
               "verified_email": 1,
               "verified_mobile": 1,
@@ -2851,9 +2838,7 @@
           },
           "seo_url": "https://unstop.com/hackathons/hackbytecodex-faculty-of-engineering-and-technology-fet-gurukul-kangri-university-gku-haridwar-831564",
           "status": "LIVE",
-          "tags": [
-            "Quiz On D2C"
-          ],
+          "tags": ["Quiz On D2C"],
           "thumb": null,
           "banner_mobile": {
             "id": 1186398,
@@ -3586,9 +3571,7 @@
               "allow_coupons": 0,
               "eligibility": null,
               "payout_data": null,
-              "gender": [
-                "A"
-              ],
+              "gender": ["A"],
               "vendor_id": null,
               "verified_email": 1,
               "verified_mobile": 1,
@@ -3924,10 +3907,7 @@
           },
           "seo_url": "https://unstop.com/hackathons/codecraft-t-a-pai-management-institute-tapmi-manipal-824306",
           "status": "LIVE",
-          "tags": [
-            "Quiz On D2C",
-            "Hackathon On D2C"
-          ],
+          "tags": ["Quiz On D2C", "Hackathon On D2C"],
           "thumb": null,
           "banner_mobile": {
             "id": 1175652,
@@ -4027,9 +4007,7 @@
               "allow_coupons": 0,
               "eligibility": "{\"sector\":[\"all\"],\"engineering\":[\"all\",\"allCourses\"],\"bSchools\":[\"all\",\"allCourses\"],\"arts\":[\"all\",\"allCourses\"],\"others\":[\"all\"],\"fresherPassoutYearsSelected\":[\"all\"],\"overallPassoutYear\":[{\"engineering\":{\"passoutYear\":{}},\"bSchools\":{\"passoutYear\":{}},\"arts\":{\"passoutYear\":{}}}]}",
               "payout_data": null,
-              "gender": [
-                "A"
-              ],
+              "gender": ["A"],
               "vendor_id": null,
               "verified_email": 1,
               "verified_mobile": 1,
@@ -4443,9 +4421,7 @@
               "allow_coupons": 0,
               "eligibility": null,
               "payout_data": null,
-              "gender": [
-                "A"
-              ],
+              "gender": ["A"],
               "vendor_id": null,
               "verified_email": 1,
               "verified_mobile": 1,
@@ -4704,9 +4680,7 @@
               "allow_coupons": 0,
               "eligibility": null,
               "payout_data": null,
-              "gender": [
-                "A"
-              ],
+              "gender": ["A"],
               "vendor_id": null,
               "verified_email": 1,
               "verified_mobile": 1,
