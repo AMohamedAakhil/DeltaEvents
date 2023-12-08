@@ -172,7 +172,7 @@ export async function getFormattedHackathons() {
   for (const page of unstop) {
     for (const i of page.data.data) {
       const from = "Unstop";
-      const url = "https://unstop.com" + i.public_url;
+      const url = "https://unstop.com/" + i.public_url;
       const name = i.title;
       const date = new Date(i.start_date);
       const end_date = new Date(i.end_date);
