@@ -18,3 +18,21 @@ model Post {
 
     @@index([name])
 }
+
+model Hackathon {
+  id        Int      @id @default(autoincrement())
+  from      String
+  name      String
+  date      DateTime?
+  end_date  DateTime?
+  location  String?
+  description String?
+  url       String
+  registration_start_date DateTime
+  registration_end_date   DateTime
+  team_size Int?
+  team_min  Int?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}

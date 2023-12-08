@@ -17,6 +17,12 @@ interface HackathonCardProps {
 
 export default async function Hackathons() {
   const hackathons = await getFormattedHackathons();
+  hackathons.sort((a, b) => {
+    const registrationEndDateA = a.registration_end_date.getTime();
+    const registrationEndDateB = b.registration_end_date.getTime();
+
+    return registrationEndDateA - registrationEndDateB;
+  });
   console.log(hackathons);
   return (
     <div className="h-full w-full p-5 text-white">
