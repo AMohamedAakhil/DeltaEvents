@@ -14,7 +14,7 @@ export default async function Hackathons () {
   return (
     <div className="w-full h-full p-5 text-white">
         <div className="text-3xl font-bold">Hackathons</div>
-        <div className="flex flex-col lg:grid lg:grid-cols-3 lg:gap-4">
+        <div className="flex flex-col md:grid md:grid-cols-2 md:gap-4 lg:grid lg:grid-cols-3 lg:gap-4">
           {
               hackathons.map((hackathon: HackathonCardProps) => {
                   return <HackathonCard name={hackathon.name} date={hackathon.date} location={hackathon.location} description={hackathon.description} url={hackathon.url} />
