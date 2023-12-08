@@ -3,9 +3,14 @@
 interface Hackathon {
     name: string;
     date: Date;
+    end_date: Date;
     location: string;
     description: string;
     url: string;
+    registration_start_date: Date;
+    registration_end_date: Date;
+    team_size: number;
+    team_min: number;
 }
 
 export async function fetchDevfolio() {
@@ -102,10 +107,15 @@ export async function getFormattedHackathons() {
     for (const i of devfolio.hits.hits) {
         const name = i._source.name
         const date = new Date(i._source.starts_at)
+        const end_date = new Date(i._source.ends_at)
         const location = i._source.is_online ? "Online" : (i._source.location ? i._source.location : "Unannounced")
         const description = i._source.desc
-        const url = "https://" + i._source.slug + ".devfolio.co"
-        hackathons.push({ name, date, location, description, url })
+        const url = "https://" + i._source.hackathon_setting.subdomain + ".devfolio.co"
+        const registration_start_date = new Date(i._source.hackathon_setting.reg_starts_at)
+        const registration_end_date = new Date(i._source.hackathon_setting.reg_ends_at)
+        const team_size = parseInt(i._source.team_size)
+        const team_min = parseInt(i._source.team_min)
+        hackathons.push({ name, date, end_date, location, description, url, registration_start_date, registration_end_date, team_size, team_min })
     }
     //console.log(hackathons);
     return hackathons;
