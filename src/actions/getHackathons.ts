@@ -1,5 +1,13 @@
 "use server"
 
+interface Hackathon {
+    name: string;
+    date: Date;
+    location: string;
+    description: string;
+    url: string;
+}
+
 export async function fetchDevfolio() {
     const url = "https://api.devfolio.co/api/search/hackathons";
     const headers = {
@@ -86,4 +94,19 @@ export async function fetchUnstop() {
     }
 
     return responses;
+}
+
+export async function getFormattedHackathons() {
+    const hackathons: Hackathon[] = [];
+    const devfolio = await fetchDevfolio();
+    for (const i of devfolio.hits.hits) {
+        const name = i._source.name
+        const date = new Date(i._source.starts_at)
+        const location = i._source.is_online ? "Online" : (i._source.location ? i._source.location : "Unannounced")
+        const description = i._source.desc
+        const url = "https://" + i._source.slug + ".devfolio.co"
+        hackathons.push({ name, date, location, description, url })
+    }
+    //console.log(hackathons);
+    return hackathons;
 }

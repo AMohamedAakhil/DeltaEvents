@@ -1,0 +1,1855 @@
+{
+  "hits": {
+    "total": {
+      "value": 19
+    },
+    "hits": [
+      {
+        "_source": {
+          "country": "India",
+          "devfolio_official": null,
+          "featured": null,
+          "private": false,
+          "starts_at": "2023-12-27T06:30:00+00:00",
+          "hosted_by": null,
+          "hashtags": [],
+          "apply_mode": "both",
+          "city": "New Delhi",
+          "timezone": "Asia/Calcutta",
+          "rating": 0,
+          "type": "HACKATHON",
+          "uuid": "25bb226d7ff84a308ebabbcdb7163881",
+          "sponsor_tiers": [
+            {
+              "sponsors": [
+                {
+                  "name": "Replit",
+                  "about": "[Replit](https://replit.com/) is the best platform for quickly starting, sharing, and developing projects in any programming language, right from your browser.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/8d71b280f19a4049900f113ba049d4f0/20.png",
+                  "company": {
+                    "domain": "https://replit.com/",
+                    "name": "Replit",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "8f1cf12ff2e245aa80ee79e8eefd8b3a"
+                  },
+                  "position": 1,
+                  "uuid": "bdf1b304977047378d6254e6ee3dbbaf"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 2,
+              "uuid": "20efbf3c2c974031abebe365c6d1cae7",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Polygon",
+                  "about": "[Polygon](https://polygon.technology/) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/5c7d24df013b4aa7911141b599ed0d23/348.png",
+                  "company": {
+                    "domain": "https://polygon.technology/",
+                    "name": "Polygon Technology",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "24e5677d6dee43868247d75fa77e4628"
+                  },
+                  "position": 1,
+                  "uuid": "b3f126306b5e4e7aa04137c14a1801f4"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 1,
+              "uuid": "80c023bd769a4715b6f10fc3f3735004",
+              "height": null
+            }
+          ],
+          "themes": [],
+          "hackathon_setting": {
+            "winner_announce_at": null,
+            "reg_starts_at": "2023-11-29T00:30:00+00:00",
+            "winner_announced": false,
+            "women_only": false,
+            "reg_ends_at": "2023-12-25T04:30:00+00:00",
+            "facebook": null,
+            "telegram": null,
+            "medium": null,
+            "instagram": null,
+            "linkedin": null,
+            "primary_color": "#7bdcb5",
+            "uuid": "66e44ff6c3d844e281dc223df2b86d9b",
+            "contact_email": "viratchauhan200297@gmail.com",
+            "twitter": null,
+            "site": null,
+            "discord": null,
+            "review": false,
+            "slack": null,
+            "logo": "https://assets.devfolio.co/hackathons/25bb226d7ff84a308ebabbcdb7163881/assets/logo/749.png",
+            "subdomain": "code-canvas"
+          },
+          "ends_at": "2023-12-28T12:30:00+00:00",
+          "is_online": false,
+          "state": "Delhi",
+          "slug": "code-canvas",
+          "team_min": 1,
+          "themed": false,
+          "discover": false,
+          "participants_count": 488,
+          "hackathon_faqs": [],
+          "participants_details": [
+            {
+              "profile_image": "https://assets.devfolio.co/users/bfe7591fe25342fd95566a90cf847f45/avatar-1d7dcf5b-633b-4ecf-b272-13abeae5f3cb.jpeg",
+              "last_name": "Singh Rajput",
+              "first_name": "Sanyog",
+              "uuid": "bfe7591fe25342fd95566a90cf847f45",
+              "username": "sanyog786"
+            },
+            {
+              "profile_image": "https://assets.devfolio.co/users/34c1b9258f9644589595a34948134b0b/avatar-d8afc85d-3720-436c-a4be-edc9428a3cc0.jpeg",
+              "last_name": "Raghuvanshi",
+              "first_name": "Rudransh",
+              "uuid": "34c1b9258f9644589595a34948134b0b",
+              "username": "TransparentHat"
+            }
+          ],
+          "team_size": 3,
+          "verified": true,
+          "prizes": [
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum",
+              "is_sponsor_prize": false,
+              "uuid": "99b2f7285fa84e9986b665dc5eb6ecfd",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum + Polygon",
+              "is_sponsor_prize": false,
+              "uuid": "557b75c66e34471cac5c27c289edc89a",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Winning Project deployed on Replit",
+              "is_sponsor_prize": false,
+              "uuid": "50110f437db845f095162c6d83b8e47d",
+              "desc": "Get started with Replit [here](https://nsb.dev/replit-bounty)."
+            }
+          ],
+          "projects_submitted": 0,
+          "name": "Code Canvas",
+          "tagline": "Delhi's Biggest Hackathon",
+          "location": "New Delhi, Delhi, India",
+          "judges": [],
+          "cover_img": "https://assets.devfolio.co/hackathons/25bb226d7ff84a308ebabbcdb7163881/assets/cover/496.png",
+          "desc": "Code Canvas is an opportunity to collaborate with like-minded individuals, acquire new skills, broaden your professional network, and make a positive contribution to the world.\n\nIf your passions align with the realms of technology, engineering, and sustainability, we extend a warm invitation for you to join us in this collective endeavor to forge a brighter future through the power of innovation!",
+          "status": "publish",
+          "user_hackathon": null,
+          "user_hackathon_reminder": null
+        }
+      },
+      {
+        "_source": {
+          "country": "India",
+          "devfolio_official": null,
+          "featured": null,
+          "private": false,
+          "starts_at": "2023-12-28T05:30:00+00:00",
+          "hosted_by": null,
+          "hashtags": [],
+          "apply_mode": "both",
+          "city": "Vadodara",
+          "timezone": "Asia/Calcutta",
+          "rating": 0,
+          "type": "HACKATHON",
+          "uuid": "ede3e6eb2ea04c30a1824372c3c980aa",
+          "sponsor_tiers": [
+            {
+              "sponsors": [
+                {
+                  "name": "Replit",
+                  "about": "[Replit](https://replit.com/) is the best platform for quickly starting, sharing, and developing projects in any programming language, right from your browser.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/8d71b280f19a4049900f113ba049d4f0/20.png",
+                  "company": {
+                    "domain": "https://replit.com/",
+                    "name": "Replit",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "8f1cf12ff2e245aa80ee79e8eefd8b3a"
+                  },
+                  "position": 1,
+                  "uuid": "e429f17a2c9a4a578d08705da01197a1"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 2,
+              "uuid": "2ce8f275fd9d44e7905d06b995210203",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Polygon",
+                  "about": "[Polygon](https://polygon.technology/) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/5c7d24df013b4aa7911141b599ed0d23/348.png",
+                  "company": {
+                    "domain": "https://polygon.technology/",
+                    "name": "Polygon Technology",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "24e5677d6dee43868247d75fa77e4628"
+                  },
+                  "position": 1,
+                  "uuid": "c2dee9abbeab43f09f7b7979bd2da18a"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 1,
+              "uuid": "2d1a7a0790154fd596bd1c87c2165782",
+              "height": null
+            }
+          ],
+          "themes": [],
+          "hackathon_setting": {
+            "winner_announce_at": null,
+            "reg_starts_at": "2023-11-30T10:30:00+00:00",
+            "winner_announced": false,
+            "women_only": false,
+            "reg_ends_at": "2023-12-25T05:30:00+00:00",
+            "facebook": null,
+            "telegram": null,
+            "medium": null,
+            "instagram": null,
+            "linkedin": null,
+            "primary_color": "#abb8c3",
+            "uuid": "049bcabf0ce84455ac68a09c80f915cf",
+            "contact_email": "navpreetkaurchhabra@gmail.com",
+            "twitter": null,
+            "site": null,
+            "discord": null,
+            "review": false,
+            "slack": null,
+            "logo": "https://assets.devfolio.co/hackathons/ede3e6eb2ea04c30a1824372c3c980aa/assets/logo/5.png",
+            "subdomain": "hack-tech-trek"
+          },
+          "ends_at": "2023-12-29T07:00:00+00:00",
+          "is_online": false,
+          "state": "Gujarat",
+          "slug": "hack-tech-trek",
+          "team_min": 1,
+          "themed": false,
+          "discover": false,
+          "participants_count": 474,
+          "hackathon_faqs": [],
+          "participants_details": [
+            {
+              "profile_image": "https://assets.devfolio.co/users/34c1b9258f9644589595a34948134b0b/avatar-d8afc85d-3720-436c-a4be-edc9428a3cc0.jpeg",
+              "last_name": "Raghuvanshi",
+              "first_name": "Rudransh",
+              "uuid": "34c1b9258f9644589595a34948134b0b",
+              "username": "TransparentHat"
+            }
+          ],
+          "team_size": 6,
+          "verified": true,
+          "prizes": [
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum",
+              "is_sponsor_prize": false,
+              "uuid": "f52830f188e64f1580d58c7e9155f6e0",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum + Polygon",
+              "is_sponsor_prize": false,
+              "uuid": "f4a755efaac6440baa659daa5445ecce",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Winning Project deployed on Replit",
+              "is_sponsor_prize": false,
+              "uuid": "673b4d8778904feea1aa8e8d6647af54",
+              "desc": "Get started with Replit [here](https://nsb.dev/replit-bounty)."
+            }
+          ],
+          "projects_submitted": 0,
+          "name": "Hack Tech Trek",
+          "tagline": "Gujarat's Largest Hackathon",
+          "location": "Vadodara, Gujarat, India",
+          "judges": [],
+          "cover_img": "https://assets.devfolio.co/hackathons/ede3e6eb2ea04c30a1824372c3c980aa/assets/cover/281.png",
+          "desc": "Hack Tech Trek firmly believe that the synergy of diverse minds and an inclusive atmosphere is the driving force behind creativity and progress. \n\nOur commitment is to provide an open and supportive environment for all attendees, regardless of their skill level or background. \n\nWhether you're an experienced developer or just starting your journey, whether you have a technical background or not, there's a place for you at Hack Tech Trek Hackathon.",
+          "status": "publish",
+          "user_hackathon": null,
+          "user_hackathon_reminder": null
+        }
+      },
+      {
+        "_source": {
+          "country": null,
+          "devfolio_official": null,
+          "featured": null,
+          "private": false,
+          "starts_at": "2024-01-02T20:30:00+00:00",
+          "hosted_by": null,
+          "hashtags": [],
+          "apply_mode": "both",
+          "city": null,
+          "timezone": "Asia/Calcutta",
+          "rating": 0,
+          "type": "HACKATHON",
+          "uuid": "edb2de3dddac4e138dbccad4dbe629dc",
+          "sponsor_tiers": [
+            {
+              "sponsors": [
+                {
+                  "name": "Polygon",
+                  "about": "[Polygon](https://polygon.technology/) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/5c7d24df013b4aa7911141b599ed0d23/348.png",
+                  "company": {
+                    "domain": "https://polygon.technology/",
+                    "name": "Polygon Technology",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "24e5677d6dee43868247d75fa77e4628"
+                  },
+                  "position": 1,
+                  "uuid": "e516293945b545cda8a5806fe0a4618d"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 1,
+              "uuid": "caa1da29ca434473b46305c5e325516b",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Replit",
+                  "about": "[Replit](https://replit.com/) is the best platform for quickly starting, sharing, and developing projects in any programming language, right from your browser.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/8d71b280f19a4049900f113ba049d4f0/20.png",
+                  "company": {
+                    "domain": "https://replit.com/",
+                    "name": "Replit",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "8f1cf12ff2e245aa80ee79e8eefd8b3a"
+                  },
+                  "position": 1,
+                  "uuid": "2e48c2b6bfc64066b6a2adc0fdbf7c95"
+                },
+                {
+                  "name": "Befikra Community",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/edb2de3dddac4e138dbccad4dbe629dc/sponsors/72b2e2583f004dc88402770a2283dda9/881.jpeg",
+                  "company": {
+                    "domain": "befikracommunity.in",
+                    "name": "Befikra Community",
+                    "verified": false,
+                    "logo": "https://logo.clearbit.com/befikracommunity.in",
+                    "uuid": "78e6b2ab3d164a8b8de1f0116018b6b5"
+                  },
+                  "position": 2,
+                  "uuid": "72b2e2583f004dc88402770a2283dda9"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 2,
+              "uuid": "8e8e9cb592be416597f0454ea813259e",
+              "height": null
+            }
+          ],
+          "themes": [],
+          "hackathon_setting": {
+            "winner_announce_at": null,
+            "reg_starts_at": "2023-10-21T20:30:00+00:00",
+            "winner_announced": false,
+            "women_only": false,
+            "reg_ends_at": "2023-12-25T18:29:00+00:00",
+            "facebook": null,
+            "telegram": "https://t.me/+gMw8tpFIl7plYTVl",
+            "medium": null,
+            "instagram": null,
+            "linkedin": "https://www.linkedin.com/company/hack-hurricane/",
+            "primary_color": "#808080",
+            "uuid": "7452de10810c40edb76810007cf24a0b",
+            "contact_email": "help.hackhurricane@gmail.com",
+            "twitter": "https://x.com/HackHurricane?t=mkMN6LKxB5Vgi8Ofq81YWQ&s=08",
+            "site": null,
+            "discord": "https://discord.gg/fwV2pfJN",
+            "review": true,
+            "slack": null,
+            "logo": "https://assets.devfolio.co/hackathons/edb2de3dddac4e138dbccad4dbe629dc/assets/logo/476.png",
+            "subdomain": "hack-hurricane"
+          },
+          "ends_at": "2024-01-04T20:30:00+00:00",
+          "is_online": false,
+          "state": null,
+          "slug": "hack-hurricane",
+          "team_min": 1,
+          "themed": false,
+          "discover": false,
+          "participants_count": 412,
+          "hackathon_faqs": [
+            {
+              "question": "Can I participate as an individual or do I need to form a team?",
+              "answer": "You can participate individually as well as you can make a team of maximum 4 members",
+              "uuid": "2b4ba83ff3264993aa25316c6227d223"
+            },
+            {
+              "question": "What are the categories or themes of the hackathon challenges?",
+              "answer": "1. Open theme\n2. Web3/Blockchain development\n3. Web development\n4. Android development\n5. AI and ML development",
+              "uuid": "e23acb0de83a41ed9fd5cfb766c010ce"
+            },
+            {
+              "question": "Can I participate if I'm a beginner or have limited coding experience?",
+              "answer": "Absolutely! **Hack Hurricane** is designed to be inclusive and welcomes participants of *all skill levels*. Whether you're a seasoned coder or just starting your coding journey, this hackathon is a fantastic opportunity to learn, collaborate, and showcase your creativity.\n\nTo support participants with limited coding experience:\n\n**Learning Resources**: We'll provide learning resources and tutorials to help beginners get started and build their skills during the hackathon.\n\n**Mentorship**: Experienced mentors will be available throughout the event to offer guidance, answer questions, and provide assistance to participants at every level.\n\n**Team Collaboration**: Consider forming or joining a team with a mix of skills. Collaborating with others can be a great way to learn and contribute to a diverse project.",
+              "uuid": "d2b18fc030f54fcfb4249f909b640c46"
+            },
+            {
+              "question": "Any advice for newbie at Hackathon?",
+              "answer": "Remember, the hackathon is not just about the final product; it's about the experience, learning, and the journey. So, dive in, explore, and enjoy the hacking adventure at Hack Hurricane!",
+              "uuid": "ea3bf7dc1b734c6a816a7496bc0334ac"
+            },
+            {
+              "question": "How do I join a team or invite others to join mine?",
+              "answer": "Visit our discord server to connect with other participants or invite team members. You can create or join a team, view participant profiles, and send or accept team invitations.",
+              "uuid": "d1a1e81b9a744e68b99f7a9587375223"
+            },
+            {
+              "question": "How will the projects be judged?",
+              "answer": "Projects will be evaluated based on creativity, technical complexity, impact, and presentation.\nOur expert panel of judges will consider innovation, effective use of technology, and the overall quality of the solution",
+              "uuid": "b05d62fede1842cea29a829c9468ed4f"
+            },
+            {
+              "question": "What are the eligibility criteria?",
+              "answer": "**Hack Hurricane** is open to participants of all backgrounds, skill levels, and ages. There are **no** specific eligibility criteria.",
+              "uuid": "e48748f02cb34d889794af635b54bd71"
+            },
+            {
+              "question": "What is the mode of Hackathon?",
+              "answer": "Online",
+              "uuid": "f924449f344b46308697e079c11a5c0a"
+            }
+          ],
+          "participants_details": [
+            {
+              "profile_image": "https://assets.devfolio.co/users/d8219a34cb6644bc9b817f0864a321a1/avatar-99d958df-8a27-4402-938e-398418cdd87d.jpeg",
+              "last_name": "Edake",
+              "first_name": "Yash",
+              "uuid": "d8219a34cb6644bc9b817f0864a321a1",
+              "username": "yashedake"
+            },
+            {
+              "profile_image": "https://assets.devfolio.co/users/43dbdf8055574585aa2b73fd4fead00a/avatar-2d8cc831-ee86-4032-9d51-27eec55a5c2d.jpeg",
+              "last_name": "Gupta",
+              "first_name": "Aman",
+              "uuid": "43dbdf8055574585aa2b73fd4fead00a",
+              "username": "aman_cod"
+            },
+            {
+              "profile_image": "https://assets.devfolio.co/users/275e29f590544b5d8083a54737dc03f9/avatar-dbff4e3f-c2ba-47b3-9bce-df22fd041769.jpeg",
+              "last_name": "sah",
+              "first_name": "kush",
+              "uuid": "275e29f590544b5d8083a54737dc03f9",
+              "username": "Kushsah12"
+            }
+          ],
+          "team_size": 4,
+          "verified": true,
+          "prizes": [
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum",
+              "is_sponsor_prize": false,
+              "uuid": "b1c03620f1c84df9bfcbcb5048704ae4",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum + Polygon",
+              "is_sponsor_prize": false,
+              "uuid": "42439d4d0db14e6ca3033e0977d89a26",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Winning Project deployed on Replit",
+              "is_sponsor_prize": false,
+              "uuid": "af1975c98a354184a2cd423add62e885",
+              "desc": "Get started with Replit [here](https://nsb.dev/replit-bounty)."
+            }
+          ],
+          "projects_submitted": 0,
+          "name": "Hack Hurricane 1.0",
+          "tagline": "Hacking for better tomorrow!",
+          "location": null,
+          "judges": [],
+          "cover_img": "https://assets.devfolio.co/hackathons/edb2de3dddac4e138dbccad4dbe629dc/assets/cover/22.png",
+          "desc": "Welcome to **\"Hack Hurricane\"** an amazing hackathon experience brought to you by the former co-organizers of the widely acclaimed **\"Soft CodeHack\"**. As seasoned organizers in the field of coding and innovation, we are thrilled to present this opportunity for you to present your creativity, fight real-world challenges, and showcase your coding skills.\n\nKey Features:\n\n**Solo or Team Participation:** Choose your path – embark on the coding journey alone or assemble a team of like-minded individuals. The choice is yours.\n\n**Innovate, Create, Win:** Hack Hurricane is not just a competition; it's an opportunity to turn your ideas into reality. From solving real-world problems to developing cutting-edge applications, this is your chance to make a lasting impact.\n\n**Exciting Prizes:** The thrill doesn’t stop with the coding challenges. Winners will not only gain recognition for their outstanding work but will also take home exciting prizes that acknowledge their dedication and ingenuity.\n\nHow to Participate:\n\n**Register:** Head over to our website and register for Hack Hurricane. It’s your first step toward a coding adventure like no other.\n\n**Form Your Team** (*Optional*): If you prefer the mutual trust of teamwork, assemble a group of up to 4 talented individuals. Teamwork makes the dream work!\n\n**Coding Begins:** Once registered, you'll receive access to the challenge categories. Pick your challenge, start coding, and let the hurricane of innovation sweep you away.\n\n**Submit Your Project:** Don't forget to submit your project before the deadline. Our panel of experienced judges can't wait to see what you've created.\n\n**Celebrate and Learn:** Join us for the closing ceremony where winners will be announced, and participants will have the chance to connect with industry experts and fellow coders.\n\nGet ready for a coding storm like never before. **Hack Hurricane** is not just an event; it's a journey where your ideas can transform into impactful solutions. Let the coding winds guide you, and may the best innovations prevail!\n\nFor further queries:\n\nJoin our Discord https://discord.gg/fwV2pfJN\n\nContact Us:\nNitish (6203989072)\nAjeet (ajeet.20224010@mnnit.ac.in)",
+          "status": "publish",
+          "user_hackathon": null,
+          "user_hackathon_reminder": null
+        }
+      },
+      {
+        "_source": {
+          "country": "India",
+          "devfolio_official": null,
+          "featured": null,
+          "private": false,
+          "starts_at": "2024-01-22T12:30:00+00:00",
+          "hosted_by": null,
+          "hashtags": [],
+          "apply_mode": "both",
+          "city": "Chennai",
+          "timezone": "Asia/Calcutta",
+          "rating": 0,
+          "type": "HACKATHON",
+          "uuid": "ede004c56bdb460bbebbb31d02fa876a",
+          "sponsor_tiers": [
+            {
+              "sponsors": [
+                {
+                  "name": "Polygon",
+                  "about": "[Polygon](https://polygon.technology/) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/5c7d24df013b4aa7911141b599ed0d23/348.png",
+                  "company": {
+                    "domain": "https://polygon.technology/",
+                    "name": "Polygon Technology",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "24e5677d6dee43868247d75fa77e4628"
+                  },
+                  "position": 1,
+                  "uuid": "93d649bfd79a40dc8c2fc37682fbcf44"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 4,
+              "uuid": "605197ffdc0f477aa541405b67ea371c",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Replit",
+                  "about": "[Replit](https://replit.com/) is the best platform for quickly starting, sharing, and developing projects in any programming language, right from your browser.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/8d71b280f19a4049900f113ba049d4f0/20.png",
+                  "company": {
+                    "domain": "https://replit.com/",
+                    "name": "Replit",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "8f1cf12ff2e245aa80ee79e8eefd8b3a"
+                  },
+                  "position": 1,
+                  "uuid": "d73846ecc65a476f86c095b9d62eb8a3"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 5,
+              "uuid": "2edf18ffd28d4896a3f1abcd1e49369a",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "ZKWallet",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/ef4036f6b4e74c8784b0a7d6984ef7df/258.png",
+                  "company": {
+                    "domain": "https://www.zkinnovations.com/",
+                    "name": "ZKWallet",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "d70f2cd63dbd413a863e2b4d77e8e8e3"
+                  },
+                  "position": 1,
+                  "uuid": "ef4036f6b4e74c8784b0a7d6984ef7df"
+                }
+              ],
+              "name": "Title Sponsor",
+              "width": 400,
+              "about": "",
+              "position": 1,
+              "uuid": "9e16f9eeee5d4c019a646e74916409d3",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "GIZMOLAB",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/4f018dbe057e4672b3aea122ba4ecc3f/333.jpeg",
+                  "company": {
+                    "domain": "gizmolab.io",
+                    "name": "GIZMOLAB",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "0e9c7eb956934ee8b3705ead12c5648c"
+                  },
+                  "position": 1,
+                  "uuid": "4f018dbe057e4672b3aea122ba4ecc3f"
+                }
+              ],
+              "name": "Co-Sponsor",
+              "width": 300,
+              "about": "",
+              "position": 2,
+              "uuid": "6c07198e49c046528bc27b4de1f3c7d6",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Qoneqt",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/36e9cae0134b4517b8b73251c8463203/152.png",
+                  "company": {
+                    "domain": "qoneqt.com",
+                    "name": "Qoneqt",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "17b253e501a841bbb73ebb6974a04423"
+                  },
+                  "position": 1,
+                  "uuid": "36e9cae0134b4517b8b73251c8463203"
+                }
+              ],
+              "name": "Category Sponsors",
+              "width": 200,
+              "about": "",
+              "position": 3,
+              "uuid": "f2a37b9bffc746deadfe60a3be0b8b6a",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Blockchain Club SRM",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/c4bb4ddee6ac4832b70d794affe91ee9/800.jpeg",
+                  "company": {
+                    "domain": "blockchainsrm.org",
+                    "name": "Blockchain Club SRM",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "6f834f0e0ca14c0bb2fbe7d698766620"
+                  },
+                  "position": 1,
+                  "uuid": "c4bb4ddee6ac4832b70d794affe91ee9"
+                },
+                {
+                  "name": "Web3Meetups",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/4bf6abe5bc244b1db8e0f0a7a389fb22/185.png",
+                  "company": {
+                    "domain": "https://web3meetups.xyz",
+                    "name": "Web3Meetups",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "da4bb569698d470fa0765b936eddd4ce"
+                  },
+                  "position": 2,
+                  "uuid": "4bf6abe5bc244b1db8e0f0a7a389fb22"
+                },
+                {
+                  "name": "Befikra Community",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/3daa9110a59e4b6b945c5db489b8d48d/718.jpeg",
+                  "company": {
+                    "domain": "befikracommunity.in",
+                    "name": "Befikra Community",
+                    "verified": false,
+                    "logo": "https://logo.clearbit.com/befikracommunity.in",
+                    "uuid": "78e6b2ab3d164a8b8de1f0116018b6b5"
+                  },
+                  "position": 4,
+                  "uuid": "3daa9110a59e4b6b945c5db489b8d48d"
+                },
+                {
+                  "name": "Skepsis Community",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/0cf7dba09aec444f80fce346d05ea722/874.png",
+                  "company": {
+                    "domain": "https://www.linkedin.com/company/skepsis-snu/",
+                    "name": "Skepsis Community",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "09c21a28c2d448f2bcb9d2e556a94fce"
+                  },
+                  "position": 5,
+                  "uuid": "0cf7dba09aec444f80fce346d05ea722"
+                },
+                {
+                  "name": "Decentraclasses",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/7fddc09f397b45a0b93431a524a113a2/412.png",
+                  "company": {
+                    "domain": "https://www.decentraclasses.com",
+                    "name": "Decentraclasses",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "5cf66ae2c8b047f5bcf5b3161a618cbe"
+                  },
+                  "position": 3,
+                  "uuid": "7fddc09f397b45a0b93431a524a113a2"
+                },
+                {
+                  "name": "The Phoenix Guild Chennai",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/f8ab98349cd84f9bab4c48259417a417/730.png",
+                  "company": {
+                    "domain": "https://linktr.ee/TPGChennai?utm_source=linktree_profile_share&ltsid=5d13267c-38e7-470a-82ed-62be5c1",
+                    "name": "The Phoenix Guild Chennai",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "4efdb9dd87c34c9892ba13678fea0216"
+                  },
+                  "position": 6,
+                  "uuid": "f8ab98349cd84f9bab4c48259417a417"
+                },
+                {
+                  "name": "Web3Chennai",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/5a42aed2c2bd4c55b95107025c5cf453/485.png",
+                  "company": {
+                    "domain": "https://twitter.com/Web3Chennai",
+                    "name": "Web3Chennai",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "1ef7c4e3aa654024851d343ab7316d4d"
+                  },
+                  "position": 7,
+                  "uuid": "5a42aed2c2bd4c55b95107025c5cf453"
+                },
+                {
+                  "name": "Dev-Station",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/0615ae0c074244f195ef2053b2439b80/101.png",
+                  "company": {
+                    "domain": "https://t.co/XDB4TKtqZl",
+                    "name": "Dev-Station",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "0fb3be429184433c924ace4ac14a5ab4"
+                  },
+                  "position": 8,
+                  "uuid": "0615ae0c074244f195ef2053b2439b80"
+                },
+                {
+                  "name": "Lumos Wizards",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/f6916bacb7454137ab84b73049dd3dbf/444.jpeg",
+                  "company": {
+                    "domain": "https://www.lumoslabs.co/",
+                    "name": "Lumos Wizards",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "d230e93936bb4e47a8fb22505c3ac542"
+                  },
+                  "position": 9,
+                  "uuid": "f6916bacb7454137ab84b73049dd3dbf"
+                },
+                {
+                  "name": "3.0 Club",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/2bb3569897794920988bce4fba1e6934/87.jpeg",
+                  "company": {
+                    "domain": "https://linkr.bio/the3.0_club",
+                    "name": "3.0 Club",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "2098a01fdb234f009e3ae476a2535314"
+                  },
+                  "position": 10,
+                  "uuid": "2bb3569897794920988bce4fba1e6934"
+                },
+                {
+                  "name": "Polygon Guild Kolkata",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/e81b1f6f28724a7b88af34bcb053e7cb/116.jpeg",
+                  "company": {
+                    "domain": "https://polygon.technology/guilds",
+                    "name": "Polygon Guild Kolkata",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "6699a698aab64627acda8fa7ae89a7f8"
+                  },
+                  "position": 11,
+                  "uuid": "e81b1f6f28724a7b88af34bcb053e7cb"
+                },
+                {
+                  "name": "CodeINBlogs",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/e2e53fc02a934202abe9a46d0c6248d8/836.jpeg",
+                  "company": {
+                    "domain": "codeinblogs.co",
+                    "name": "CodeINBlogs",
+                    "verified": false,
+                    "logo": "https://logo.clearbit.com/codeinblogs.co",
+                    "uuid": "2972f35a4e614f6488c82fe24d5ec403"
+                  },
+                  "position": 12,
+                  "uuid": "e2e53fc02a934202abe9a46d0c6248d8"
+                },
+                {
+                  "name": "Spheron Network",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/0e4b8a537a5d4db6b60d37e740911d5c/504.png",
+                  "company": {
+                    "domain": "spheron.network",
+                    "name": "Spheron Network",
+                    "verified": false,
+                    "logo": "https://logo.clearbit.com/spheron.network",
+                    "uuid": "0a687adf6b834150a6c421da756561d7"
+                  },
+                  "position": 13,
+                  "uuid": "0e4b8a537a5d4db6b60d37e740911d5c"
+                },
+                {
+                  "name": "Codeate 8",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/8bda11eaf7af4455bcdaf13c1aa3f711/908.png",
+                  "company": {
+                    "domain": "codeate.in",
+                    "name": "Codeate 8",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "cb446c39a8dd42c28ceae79d83701d38"
+                  },
+                  "position": 14,
+                  "uuid": "8bda11eaf7af4455bcdaf13c1aa3f711"
+                },
+                {
+                  "name": "Web3kerala",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/sponsors/4fa07c66819348c9830072b8754295e6/393.png",
+                  "company": {
+                    "domain": "https://web3kerala.com",
+                    "name": "Web3kerala",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "ad66b6d9541b403dbc21e79faf364df2"
+                  },
+                  "position": 15,
+                  "uuid": "4fa07c66819348c9830072b8754295e6"
+                }
+              ],
+              "name": "Community Partners",
+              "width": 200,
+              "about": "",
+              "position": 6,
+              "uuid": "53b3ba5654054154941de0cbf89bf925",
+              "height": null
+            }
+          ],
+          "themes": [
+            {
+              "name": "Blockchain",
+              "verified": true,
+              "uuid": "106931c0a88e4e4893333524fe66ef5d"
+            },
+            {
+              "name": "FinTech",
+              "verified": true,
+              "uuid": "10f3c52e650b4229a2dc2edcebff20db"
+            }
+          ],
+          "hackathon_setting": {
+            "winner_announce_at": null,
+            "reg_starts_at": "2023-12-04T18:30:00+00:00",
+            "winner_announced": false,
+            "women_only": false,
+            "reg_ends_at": "2023-12-25T18:29:00+00:00",
+            "facebook": null,
+            "telegram": null,
+            "medium": null,
+            "instagram": "https://instagram.com/de.fy24",
+            "linkedin": null,
+            "primary_color": "#99ff52",
+            "uuid": "0e30ad68fed349939873c17a30364dbd",
+            "contact_email": "chennai.daocommunity@vit.ac.in",
+            "twitter": "https://x.com/defy_2024",
+            "site": "https://www.defy24.xyz/",
+            "discord": null,
+            "review": false,
+            "slack": null,
+            "logo": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/assets/logo/802.png",
+            "subdomain": "defy2024"
+          },
+          "ends_at": "2024-01-24T08:30:00+00:00",
+          "is_online": false,
+          "state": "Tamil Nadu",
+          "slug": "defy2024",
+          "team_min": 4,
+          "themed": false,
+          "discover": false,
+          "participants_count": 36,
+          "hackathon_faqs": [
+            {
+              "question": "Who can participate?",
+              "answer": "DeFy24 welcomes college students from all fields of study and backgrounds. Whether deeply passionate about Web3 technology or aspiring entrepreneurs, this hackathon encourages diverse perspectives and expertise.",
+              "uuid": "7a5a8e4897f647a4a68cfc227e656712"
+            },
+            {
+              "question": "What's the team size allowed? Can I participate alone?",
+              "answer": "**Teams of 4-6 members** are permitted to participate, fostering a collaborative environment. Unfortunately, **solo participation is not allowed** to ensure a synergistic exchange of ideas and skills among participants.",
+              "uuid": "460e5737413f47b0aab2ee414a73d594"
+            },
+            {
+              "question": "When do applications and submissions close?",
+              "answer": "Both application submissions and project submissions will close on **December 25th, 2023** It's important to ensure all necessary materials are submitted before this deadline.\n\nYou need to submit the link at the time of application, but you can edit/complete the proposal anytime before the deadline.",
+              "uuid": "1c5b256c7e974be1b3d84edc7e8b3dad"
+            },
+            {
+              "question": "Can I participate without deep technical knowledge in Blockchain or Web3?",
+              "answer": "**Absolutely!!** DeFy24 emphasizes collaboration between individuals with technical prowess and those with business acumen. Participants are encouraged to form teams that encompass both skill sets, fostering a well-rounded approach to problem-solving.",
+              "uuid": "3975f429e9254c8dae8eb1f5a319b27d"
+            },
+            {
+              "question": "Is it mandatory to focus on both the business and Web3 aspects?",
+              "answer": "**Yes** participants are expected to showcase not only *technical proficiency* in their prototypes but also a keen understanding of the market dynamics and the *potential business applications* of their ideas. This comprehensive approach is integral to the evaluation process.",
+              "uuid": "448853bf93984c8cb8b74077beb63553"
+            },
+            {
+              "question": "What is the prize pool?",
+              "answer": "The prize pool for DeFy24 is noteworthy, amounting to **₹1 lakh+**. Winners will not only receive cash rewards but also **Tokens, Credits, and exciting goodies** as a testament to their achievements.",
+              "uuid": "0d9a2ee9977844c18fcad6c53cdfcc31"
+            },
+            {
+              "question": "What are the Registration Charges?",
+              "answer": "Registration for the **initial ideation round** is **completely free** for all participants. \nHowever, for the subsequent **offline 3-day hackathon event**, there will be a **minimal admission fee**.",
+              "uuid": "7a4e761fe8cb469b8863b6a5fdc38177"
+            },
+            {
+              "question": "Do you provide travel reimbursements for the finalists?",
+              "answer": "While DeFy24 is free of charge for participants, including thanks to our generous sponsors and partners, unfortunately, the **event cannot cover expenses related to travel or any other incidental costs** incurred by attendees.",
+              "uuid": "98a01cc7c5be41babc8c6f5120b4cd2e"
+            }
+          ],
+          "participants_details": [],
+          "team_size": 6,
+          "verified": true,
+          "prizes": [
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum",
+              "is_sponsor_prize": false,
+              "uuid": "917d3aaa34094e279c6fdda6c19d1e92",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum + Polygon",
+              "is_sponsor_prize": false,
+              "uuid": "f4c262fd93a94ec8984fdde839046912",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Winning Project deployed on Replit",
+              "is_sponsor_prize": false,
+              "uuid": "f1bc1821d1864207b127913875492021",
+              "desc": "Get started with Replit [here](https://nsb.dev/replit-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "DeFy Disruptor Grant",
+              "is_sponsor_prize": false,
+              "uuid": "62dcd010db8e4cde877b374cda0863e1",
+              "desc": "The **DeFi Disruptor Grant** celebrates trailblazing projects within the **Public Goods Track**, emphasizing solutions that **elevate community welfare** and sustainable practices. This grant recognizes pioneering initiatives that **promote transparency, authenticity, and ethical standards in creating impactful public goods.** Winners showcase innovation in redefining traditional models, contributing significantly to the betterment of society through forward-thinking approaches."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "ZKWallet Innovation Grant",
+              "is_sponsor_prize": false,
+              "uuid": "7f1d31d7ea614cdaa88b939f84f0e3aa",
+              "desc": "The **ZKWallet Innovation Grant** aims to reward pioneering solutions within the **Account Abstraction Track**. This grant is dedicated to encouraging inventive approaches in creating **user-friendly and secure account management solutions for decentralized applications.** Winners will be recognized for their innovative utilization of zero-knowledge proofs within wallet technology, enhancing privacy and security in decentralized ecosystems."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "ZKWallet Innovation Grant",
+              "is_sponsor_prize": false,
+              "uuid": "c63321958929464f9e921e81fc9a814b",
+              "desc": "The **ZKWallet Innovation Grant** for the DeFi Track celebrates inventive solutions in the realm of decentralized finance. This grant recognizes pioneering projects that **leverage zkWallet technology** to **revolutionize lending, trading, and other financial services within decentralized ecosystems**. Winners will be acknowledged for their innovative integration of zero-knowledge proofs, enhancing privacy, security, and efficiency in DeFi platforms."
+            }
+          ],
+          "projects_submitted": 0,
+          "name": "DeFy24",
+          "tagline": "Where Web3 Meets Business.",
+          "location": "Vellore Institute of Technology Chennai Campus (VIT Chennai), Kelambakkam - Vandalur Road, Rajan Nagar, Chennai, Tamil Nadu, India",
+          "judges": [],
+          "cover_img": "https://assets.devfolio.co/hackathons/ede004c56bdb460bbebbb31d02fa876a/assets/cover/475.png",
+          "desc": "# DeFy24: A 36-Hour Hackathon for the Future\n\nCalling all web3 enthusiasts and aspiring entrepreneurs! DeFy24 is a 36-hour hackathon that will challenge you to think outside the box and create innovative web3 startups. Unlike traditional hackathons, DeFy24 isn't just about coding; it's about disrupting the status quo and reimagining the future. Join us and help us create a world where decentralization and future yield go hand in hand.\n\n**Round 1 : Ideation Round**\n\nThe online ideation round provides an ideal platform to unleash your creativity and present innovative ideas. Participants are encouraged to thoroughly review the provided document to grasp the expectations and guidelines for crafting a successful submission.\n\n**The [Product Proposal Link](https://scratch-slash-7b5.notion.site/Submission-for-Ideation-Round-d2ae16cb2df94e408945fd3096f5bb90) must be submitted during the registration. You can edit the Notion link anytime before the deadline i.e 25th Dec, 2023.**\n\nThe participating teams will be evaluated on both their technical and business acumen. The top 30 teams from the three main tracks will advance to the second round based on the mentioned selection criteria.\n\n**Round 2: In-House Hackathon and Business Pitch Competition**\n\nGet ready for the next stage of DeFy24, the in-house hackathon! The top 30 teams from Round 1 will be invited to participate in this exciting event, where they will have the opportunity to further develop their ideas, learn and compete for a share of the ₹1L prize pool. \n\nTwo top teams from each track will be selected based on the judgment criteria to advance to the business pitch competition.\n\n**Business Pitch Competition:** Present your innovative business pitch to a panel of judges and compete for the top prize.\n\nDon't miss this incredible opportunity to take your DeFy24 journey to the next level! Join us for the hackathon, learn from experts, and showcase your entrepreneurial spirit.\n\nTogether, let's defy the status quo and shape the future of Web3 and Business!",
+          "status": "publish",
+          "user_hackathon": null,
+          "user_hackathon_reminder": null
+        }
+      },
+      {
+        "_source": {
+          "country": "India",
+          "devfolio_official": null,
+          "featured": null,
+          "private": false,
+          "starts_at": "2024-01-07T03:30:00+00:00",
+          "hosted_by": null,
+          "hashtags": [],
+          "apply_mode": "both",
+          "city": "New Delhi",
+          "timezone": "Asia/Calcutta",
+          "rating": 0,
+          "type": "HACKATHON",
+          "uuid": "429fd9c338a64711aa6d8dad759791f4",
+          "sponsor_tiers": [
+            {
+              "sponsors": [
+                {
+                  "name": "Replit",
+                  "about": "[Replit](https://replit.com/) is the best platform for quickly starting, sharing, and developing projects in any programming language, right from your browser.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/8d71b280f19a4049900f113ba049d4f0/20.png",
+                  "company": {
+                    "domain": "https://replit.com/",
+                    "name": "Replit",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "8f1cf12ff2e245aa80ee79e8eefd8b3a"
+                  },
+                  "position": 1,
+                  "uuid": "13a1dfee06694a3ab222cec31adfb724"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 2,
+              "uuid": "ae9d398cbe9e47ffa21b09517b4c09da",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Polygon",
+                  "about": "[Polygon](https://polygon.technology/) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/5c7d24df013b4aa7911141b599ed0d23/348.png",
+                  "company": {
+                    "domain": "https://polygon.technology/",
+                    "name": "Polygon Technology",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "24e5677d6dee43868247d75fa77e4628"
+                  },
+                  "position": 1,
+                  "uuid": "e6d84611a5fd4d1c8f369fdaf20433ca"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 1,
+              "uuid": "6167a90c6e354ac980e811a67aad521f",
+              "height": null
+            }
+          ],
+          "themes": [],
+          "hackathon_setting": {
+            "winner_announce_at": null,
+            "reg_starts_at": "2023-11-29T22:30:00+00:00",
+            "winner_announced": false,
+            "women_only": false,
+            "reg_ends_at": "2024-01-05T04:30:00+00:00",
+            "facebook": null,
+            "telegram": null,
+            "medium": null,
+            "instagram": null,
+            "linkedin": null,
+            "primary_color": "#9900ef",
+            "uuid": "890cc00e5694426babbb56e50b8e2e05",
+            "contact_email": "sargunmehta2301@gmail.com",
+            "twitter": null,
+            "site": null,
+            "discord": null,
+            "review": false,
+            "slack": null,
+            "logo": "https://assets.devfolio.co/hackathons/429fd9c338a64711aa6d8dad759791f4/assets/logo/545.png",
+            "subdomain": "hack-arena"
+          },
+          "ends_at": "2024-01-07T15:30:00+00:00",
+          "is_online": false,
+          "state": "Delhi",
+          "slug": "hack-arena",
+          "team_min": 1,
+          "themed": false,
+          "discover": false,
+          "participants_count": 475,
+          "hackathon_faqs": [],
+          "participants_details": [
+            {
+              "profile_image": "https://assets.devfolio.co/users/34c1b9258f9644589595a34948134b0b/avatar-d8afc85d-3720-436c-a4be-edc9428a3cc0.jpeg",
+              "last_name": "Raghuvanshi",
+              "first_name": "Rudransh",
+              "uuid": "34c1b9258f9644589595a34948134b0b",
+              "username": "TransparentHat"
+            },
+            {
+              "profile_image": "https://assets.devfolio.co/users/7779748910ab4c07b8fda6fc580053af/avatar-78f6ff1e-6fdc-4b74-bb83-7265dd22b7f1.jpeg",
+              "last_name": "Singhal",
+              "first_name": "Naitik",
+              "uuid": "7779748910ab4c07b8fda6fc580053af",
+              "username": "Naitiklovestech"
+            },
+            {
+              "profile_image": "https://assets.devfolio.co/users/bfe7591fe25342fd95566a90cf847f45/avatar-1d7dcf5b-633b-4ecf-b272-13abeae5f3cb.jpeg",
+              "last_name": "Singh Rajput",
+              "first_name": "Sanyog",
+              "uuid": "bfe7591fe25342fd95566a90cf847f45",
+              "username": "sanyog786"
+            }
+          ],
+          "team_size": 4,
+          "verified": true,
+          "prizes": [
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum",
+              "is_sponsor_prize": false,
+              "uuid": "a1b7caf87ded4c35bae88687fe267306",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum + Polygon",
+              "is_sponsor_prize": false,
+              "uuid": "762460ee559b4373ba9c908f95fd4f59",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Winning Project deployed on Replit",
+              "is_sponsor_prize": false,
+              "uuid": "961106ead9954072a597af652edac59a",
+              "desc": "Get started with Replit [here](https://nsb.dev/replit-bounty)."
+            }
+          ],
+          "projects_submitted": 0,
+          "name": "Hack Arena",
+          "tagline": "Amazing Innovative Hackathon",
+          "location": "New Delhi, Delhi, India",
+          "judges": [],
+          "cover_img": "https://assets.devfolio.co/hackathons/429fd9c338a64711aa6d8dad759791f4/assets/cover/662.png",
+          "desc": "\"Hack Arena\" is an electrifying convergence of minds and innovation. \n\nOur mission is to unite enthusiasts from diverse backgrounds, sparking creativity in the realms of technology, design, and sustainability. Together, we aspire to forge groundbreaking solutions that transcend boundaries and leave an indelible mark on the world.\n\nAt the heart of our ethos lies a commitment to fostering collaboration and embracing inclusivity. Hack Arena is designed to be an open and supportive space, embracing individuals at every stage of their journey, from tech wizards to those taking their first steps. Everyone is invited to contribute their unique perspective, ensuring a rich tapestry of ideas and insights.",
+          "status": "publish",
+          "user_hackathon": null,
+          "user_hackathon_reminder": null
+        }
+      },
+      {
+        "_source": {
+          "country": null,
+          "devfolio_official": null,
+          "featured": null,
+          "private": false,
+          "starts_at": "2023-12-13T18:30:00+00:00",
+          "hosted_by": null,
+          "hashtags": [],
+          "apply_mode": "both",
+          "city": null,
+          "timezone": "Asia/Calcutta",
+          "rating": 0,
+          "type": "HACKATHON",
+          "uuid": "0ae4c87d5328470084fb24dd90720819",
+          "sponsor_tiers": [
+            {
+              "sponsors": [
+                {
+                  "name": "Polygon",
+                  "about": "[Polygon](https://polygon.technology/) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/5c7d24df013b4aa7911141b599ed0d23/348.png",
+                  "company": {
+                    "domain": "https://polygon.technology/",
+                    "name": "Polygon Technology",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "24e5677d6dee43868247d75fa77e4628"
+                  },
+                  "position": 1,
+                  "uuid": "814bee1c17c34c12b5b619a050986182"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 1,
+              "uuid": "a2d7ec912abf4992b34e669da87ae655",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Replit",
+                  "about": "[Replit](https://replit.com/) is the best platform for quickly starting, sharing, and developing projects in any programming language, right from your browser.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/8d71b280f19a4049900f113ba049d4f0/20.png",
+                  "company": {
+                    "domain": "https://replit.com/",
+                    "name": "Replit",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "8f1cf12ff2e245aa80ee79e8eefd8b3a"
+                  },
+                  "position": 1,
+                  "uuid": "59fead179c5d41a2aa594a8be4463fb8"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 2,
+              "uuid": "c370a77a5dd24977854443043acc0445",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "JetBrains",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/0ae4c87d5328470084fb24dd90720819/sponsors/1b7d6c8af5e34989a3c1269f8ca71a8e/774.png",
+                  "company": {
+                    "domain": "jetbrains.com",
+                    "name": "JetBrains",
+                    "verified": false,
+                    "logo": "https://logo.clearbit.com/jetbrains.com",
+                    "uuid": "d72dce4568684095b435fef3b17d1891"
+                  },
+                  "position": 1,
+                  "uuid": "1b7d6c8af5e34989a3c1269f8ca71a8e"
+                },
+                {
+                  "name": "Forethought India",
+                  "about": null,
+                  "logo": "https://assets.devfolio.co/hackathons/0ae4c87d5328470084fb24dd90720819/sponsors/52c96af3d46e4c519ed21ecbd0966443/719.png",
+                  "company": {
+                    "domain": "forethought.co.in",
+                    "name": "Forethought India",
+                    "verified": false,
+                    "logo": "https://logo.clearbit.com/forethought.co.in",
+                    "uuid": "9f4b7494bb064493813952e014b7652d"
+                  },
+                  "position": 2,
+                  "uuid": "52c96af3d46e4c519ed21ecbd0966443"
+                }
+              ],
+              "name": "Goodies",
+              "width": 200,
+              "about": "",
+              "position": 3,
+              "uuid": "570e597e81f049368edc56fc63b5ca76",
+              "height": null
+            }
+          ],
+          "themes": [],
+          "hackathon_setting": {
+            "winner_announce_at": null,
+            "reg_starts_at": "2023-11-30T18:30:00+00:00",
+            "winner_announced": false,
+            "women_only": false,
+            "reg_ends_at": "2024-01-12T18:29:00+00:00",
+            "facebook": null,
+            "telegram": null,
+            "medium": null,
+            "instagram": "https://www.instagram.com/geekhaven_iiita/",
+            "linkedin": "https://www.linkedin.com/company/geekhaven-iiita",
+            "primary_color": "#317272",
+            "uuid": "09e046453f6a4f3e820ab7f48de2c2a5",
+            "contact_email": "geekhaven@iiita.ac.in",
+            "twitter": null,
+            "site": "https://opencodeiiita.github.io/",
+            "discord": "https://discord.gg/7hRZXaHCgC",
+            "review": true,
+            "slack": null,
+            "logo": "https://assets.devfolio.co/hackathons/0ae4c87d5328470084fb24dd90720819/assets/logo/597.png",
+            "subdomain": "opencode23"
+          },
+          "ends_at": "2024-01-12T18:29:00+00:00",
+          "is_online": false,
+          "state": null,
+          "slug": "opencode23",
+          "team_min": 1,
+          "themed": false,
+          "discover": false,
+          "participants_count": 496,
+          "hackathon_faqs": [
+            {
+              "question": "Can we participate as a Team?",
+              "answer": "No, Opencode can only be participated as an individual, hence it's an individual event, hence please submit your applications as an individual.",
+              "uuid": "6c7a78dec34b4195877263099963671e"
+            }
+          ],
+          "participants_details": [
+            {
+              "profile_image": "https://assets.devfolio.co/users/782372231b364961a68fc59dd0060d73/avatar-9990a410-9386-4925-8d36-52dfe7dfd2d6.jpeg",
+              "last_name": "Balchandani",
+              "first_name": "Dhruv",
+              "uuid": "782372231b364961a68fc59dd0060d73",
+              "username": "Dhruvx19"
+            },
+            {
+              "profile_image": "https://assets.devfolio.co/users/23c3119150c54ba6a72a818581c9e53a/avatar-08a7f5e5-54fc-4a45-9afb-cde3d8d249f6.jpeg",
+              "last_name": "Shukla",
+              "first_name": "Anshuman",
+              "uuid": "23c3119150c54ba6a72a818581c9e53a",
+              "username": "anshuman_Dev"
+            },
+            {
+              "profile_image": "https://assets.devfolio.co/users/d88be75b34644f699783d5708f4305d4/avatar-3311995e-04c5-4aa1-ad12-0ad65b185c05.jpeg",
+              "last_name": "Bansal",
+              "first_name": "Kushal",
+              "uuid": "d88be75b34644f699783d5708f4305d4",
+              "username": "kushal7201"
+            }
+          ],
+          "team_size": 2,
+          "verified": true,
+          "prizes": [
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum",
+              "is_sponsor_prize": false,
+              "uuid": "b75e874b12094464838c8fd23a82c0ea",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum + Polygon",
+              "is_sponsor_prize": false,
+              "uuid": "de8090ce043f436d9ffad538d4c9b6ec",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Winning Project deployed on Replit",
+              "is_sponsor_prize": false,
+              "uuid": "16d0672e5dfb4028bd0dccc9b70ca335",
+              "desc": "Get started with Replit [here](https://nsb.dev/replit-bounty)."
+            }
+          ],
+          "projects_submitted": 0,
+          "name": "Opencode'23",
+          "tagline": "Your journey into open source starts here!",
+          "location": null,
+          "judges": [],
+          "cover_img": "https://assets.devfolio.co/hackathons/0ae4c87d5328470084fb24dd90720819/assets/cover/524.png",
+          "desc": "A month-long program starting in December for students to start their journey in the world of open source.\nThe only requirement being an enthusiastic heart to learn.😻",
+          "status": "publish",
+          "user_hackathon": null,
+          "user_hackathon_reminder": null
+        }
+      },
+      {
+        "_source": {
+          "country": "India",
+          "devfolio_official": null,
+          "featured": null,
+          "private": false,
+          "starts_at": "2024-01-20T04:30:00+00:00",
+          "hosted_by": null,
+          "hashtags": [],
+          "apply_mode": "both",
+          "city": "Mumbai",
+          "timezone": "Asia/Calcutta",
+          "rating": 0,
+          "type": "HACKATHON",
+          "uuid": "399bff7c4a6140319fbd990d74b7c486",
+          "sponsor_tiers": [
+            {
+              "sponsors": [
+                {
+                  "name": "Replit",
+                  "about": "[Replit](https://replit.com/) is the best platform for quickly starting, sharing, and developing projects in any programming language, right from your browser.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/8d71b280f19a4049900f113ba049d4f0/20.png",
+                  "company": {
+                    "domain": "https://replit.com/",
+                    "name": "Replit",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "8f1cf12ff2e245aa80ee79e8eefd8b3a"
+                  },
+                  "position": 1,
+                  "uuid": "407f92b323484716a6a0a6c015d6b473"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 2,
+              "uuid": "09745c02a6ee4b7c9b5de4f4aae97b05",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Polygon",
+                  "about": "[Polygon](https://polygon.technology/) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/5c7d24df013b4aa7911141b599ed0d23/348.png",
+                  "company": {
+                    "domain": "https://polygon.technology/",
+                    "name": "Polygon Technology",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "24e5677d6dee43868247d75fa77e4628"
+                  },
+                  "position": 1,
+                  "uuid": "2f21e8c757bf44b4aa60a30c3cd837e0"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 1,
+              "uuid": "57f034010a984ad0972923360a34e9ae",
+              "height": null
+            }
+          ],
+          "themes": [],
+          "hackathon_setting": {
+            "winner_announce_at": null,
+            "reg_starts_at": "2023-12-06T18:30:00+00:00",
+            "winner_announced": false,
+            "women_only": false,
+            "reg_ends_at": "2024-01-15T18:30:00+00:00",
+            "facebook": null,
+            "telegram": null,
+            "medium": null,
+            "instagram": "https://www.instagram.com/datazensomaiya/",
+            "linkedin": "https://www.linkedin.com/company/datazen-somaiya/mycompany/",
+            "primary_color": "#b83232",
+            "uuid": "a0478a7ab75d4596bbf4a810c7c0c1a9",
+            "contact_email": "datazen@somaiya.edu",
+            "twitter": "https://twitter.com/datazensomaiya",
+            "site": null,
+            "discord": "https://discord.com/invite/kgNcyF7aye",
+            "review": false,
+            "slack": null,
+            "logo": "https://assets.devfolio.co/hackathons/399bff7c4a6140319fbd990d74b7c486/assets/logo/648.jpeg",
+            "subdomain": "datathon-3"
+          },
+          "ends_at": "2024-01-21T06:00:00+00:00",
+          "is_online": false,
+          "state": "Maharashtra",
+          "slug": "datathon-3",
+          "team_min": 2,
+          "themed": false,
+          "discover": false,
+          "participants_count": 19,
+          "hackathon_faqs": [],
+          "participants_details": [
+            {
+              "profile_image": "https://assets.devfolio.co/users/1041c0553cdc4dffbfa2615372f7faf2/avatar-dbe1f2fa-50e6-404a-bc8e-00ac53a5aaee.jpeg",
+              "last_name": "Mandol",
+              "first_name": "Md Rasel",
+              "uuid": "1041c0553cdc4dffbfa2615372f7faf2",
+              "username": "raselmandol"
+            }
+          ],
+          "team_size": 4,
+          "verified": true,
+          "prizes": [
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum",
+              "is_sponsor_prize": false,
+              "uuid": "e3db577b7ea24f84a3ff35d0f8fcf887",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum + Polygon",
+              "is_sponsor_prize": false,
+              "uuid": "36cf67b903ed4ab79057c1b83947823f",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Winning Project deployed on Replit",
+              "is_sponsor_prize": false,
+              "uuid": "a0067efa44b347b2b98937fc452591bf",
+              "desc": "Get started with Replit [here](https://nsb.dev/replit-bounty)."
+            }
+          ],
+          "projects_submitted": 0,
+          "name": "Datathon 2024",
+          "tagline": null,
+          "location": "K. J. Somaiya College of Engineering, Vidyanagar, Vidya Vihar East, Vidyavihar, Mumbai, Maharashtra, India",
+          "judges": [],
+          "cover_img": "https://assets.devfolio.co/hackathons/399bff7c4a6140319fbd990d74b7c486/assets/cover/919.jpeg",
+          "desc": "Datathon is a platform that transcends geographical boundaries, fostering innovation and collaboration among India's brightest young minds. The event promises to be an intellectual playground where participants, with a passion for data science, converge to compete in a series of challenging tracks. These tracks encompass a wide spectrum of data science domains, including Natural Language Processing (NLP), Generative AI, MLOps, and more. It's here that the next generation of data scientists will demonstrate their expertise, learn from seasoned professionals, and network with peers who share their zeal for data-driven solutions.",
+          "status": "publish",
+          "user_hackathon": null,
+          "user_hackathon_reminder": null
+        }
+      },
+      {
+        "_source": {
+          "country": null,
+          "devfolio_official": null,
+          "featured": null,
+          "private": false,
+          "starts_at": "2024-01-19T15:30:00+00:00",
+          "hosted_by": null,
+          "hashtags": [],
+          "apply_mode": "both",
+          "city": null,
+          "timezone": "Asia/Calcutta",
+          "rating": 0,
+          "type": "HACKATHON",
+          "uuid": "39a42381ce64422e8b5717f4e77c1833",
+          "sponsor_tiers": [
+            {
+              "sponsors": [
+                {
+                  "name": "Polygon",
+                  "about": "[Polygon](https://polygon.technology/) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/5c7d24df013b4aa7911141b599ed0d23/348.png",
+                  "company": {
+                    "domain": "https://polygon.technology/",
+                    "name": "Polygon Technology",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "24e5677d6dee43868247d75fa77e4628"
+                  },
+                  "position": 1,
+                  "uuid": "212a8e91f5c843bc86eeb4b09544554b"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 1,
+              "uuid": "f651a3b99b8945238ccfc268080c4454",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Replit",
+                  "about": "[Replit](https://replit.com/) is the best platform for quickly starting, sharing, and developing projects in any programming language, right from your browser.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/8d71b280f19a4049900f113ba049d4f0/20.png",
+                  "company": {
+                    "domain": "https://replit.com/",
+                    "name": "Replit",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "8f1cf12ff2e245aa80ee79e8eefd8b3a"
+                  },
+                  "position": 1,
+                  "uuid": "6b1a19a3b8244e4fba4e2345a61b1103"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 2,
+              "uuid": "5333c272909947678e579b544b92ffba",
+              "height": null
+            }
+          ],
+          "themes": [],
+          "hackathon_setting": {
+            "winner_announce_at": "2024-01-26T14:30:00+00:00",
+            "reg_starts_at": "2023-11-22T18:30:00+00:00",
+            "winner_announced": false,
+            "women_only": false,
+            "reg_ends_at": "2024-01-19T15:30:00+00:00",
+            "facebook": null,
+            "telegram": null,
+            "medium": null,
+            "instagram": "https://www.instagram.com/devsocbitsgoa/",
+            "linkedin": "https://www.linkedin.com/company/13598216/",
+            "primary_color": "#4ba69d",
+            "uuid": "73cfa49a5ede4164af8bf5407c66d432",
+            "contact_email": "devsocbpgc@gmail.com",
+            "twitter": "https://twitter.com/devsocbitsgoa",
+            "site": "https://devfest.devsoc.club",
+            "discord": null,
+            "review": false,
+            "slack": null,
+            "logo": "https://assets.devfolio.co/hackathons/39a42381ce64422e8b5717f4e77c1833/assets/logo/921.png",
+            "subdomain": "devfest-3"
+          },
+          "ends_at": "2024-01-21T15:30:00+00:00",
+          "is_online": true,
+          "state": null,
+          "slug": "devfest-3",
+          "team_min": 1,
+          "themed": false,
+          "discover": false,
+          "participants_count": 28,
+          "hackathon_faqs": [],
+          "participants_details": [
+            {
+              "profile_image": "https://assets.devfolio.co/users/3ea8400d7d4644a6b42416c8f94706d5/avatar-fa0615c5-8ae0-4d57-8964-c1dc2a81c03c.jpeg",
+              "last_name": "Pathak",
+              "first_name": "Aditya",
+              "uuid": "3ea8400d7d4644a6b42416c8f94706d5",
+              "username": "pathakaditya"
+            },
+            {
+              "profile_image": "https://assets.devfolio.co/users/b9e3de222a1745f7828625f12423d689/avatar-91854187-84a4-423e-9397-5cd6115e7102.jpeg",
+              "last_name": "Jena",
+              "first_name": "Anshuman",
+              "uuid": "b9e3de222a1745f7828625f12423d689",
+              "username": "abandonedmonk"
+            }
+          ],
+          "team_size": 4,
+          "verified": true,
+          "prizes": [
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum",
+              "is_sponsor_prize": false,
+              "uuid": "c53af1c3ac3845afa3a3623ed6af89ae",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum + Polygon",
+              "is_sponsor_prize": false,
+              "uuid": "9547af8ed82d47a082622622ff8440f7",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Winning Project deployed on Replit",
+              "is_sponsor_prize": false,
+              "uuid": "6a68523133f74abe9836080932d15ea3",
+              "desc": "Get started with Replit [here](https://nsb.dev/replit-bounty)."
+            }
+          ],
+          "projects_submitted": 0,
+          "name": "DevStorm",
+          "tagline": "Storm your way through DevFest 3.0's Signature Hackathon!",
+          "location": null,
+          "judges": [],
+          "cover_img": "https://assets.devfolio.co/hackathons/39a42381ce64422e8b5717f4e77c1833/assets/cover/434.png",
+          "desc": "*DevFest, the annual flagship event of the Developers' Society at BITS Goa,  is not merely an event; it is a transformative and immersive experience designed to celebrate technology, innovation, and collaborative coding culture. In its third edition, DevFest 3.0 brings its very own hackathon, DevStorm. This year holds special significance as we mark the 10th anniversary of DevSoc and the 20th anniversary of BITS Pilani Goa. With each edition, DevFest continues to elevate standards, bringing together over 3000 students from across the country, both physically at BITS Pilani Goa campus and virtually.*",
+          "status": "publish",
+          "user_hackathon": null,
+          "user_hackathon_reminder": null
+        }
+      },
+      {
+        "_source": {
+          "country": "India",
+          "devfolio_official": null,
+          "featured": null,
+          "private": false,
+          "starts_at": "2024-02-16T06:30:00+00:00",
+          "hosted_by": null,
+          "hashtags": [],
+          "apply_mode": "both",
+          "city": "New Delhi",
+          "timezone": "Asia/Calcutta",
+          "rating": 0,
+          "type": "HACKATHON",
+          "uuid": "18fddda3e0fd4b1a8ceddd5292582249",
+          "sponsor_tiers": [
+            {
+              "sponsors": [
+                {
+                  "name": "Earth Hacks",
+                  "about": "[Earth Hacks](https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/c3e5991984e3466bb0ffebf017252b36/sponsors/17817731fd114816befe75b55c927979/977.png)",
+                  "logo": "https://assets.devfolio.co/hackathons/18fddda3e0fd4b1a8ceddd5292582249/sponsors/7b40741ca45441c293fa1a08c808e3b1/442.png",
+                  "company": {
+                    "domain": "earthhacks.io",
+                    "name": "Earth Hacks",
+                    "verified": false,
+                    "logo": "https://logo.clearbit.com/earthhacks.io",
+                    "uuid": "829e9703f7b4437d9fe7e76eac24c119"
+                  },
+                  "position": 1,
+                  "uuid": "7b40741ca45441c293fa1a08c808e3b1"
+                }
+              ],
+              "name": "Sustainability Partner",
+              "width": 200,
+              "about": "",
+              "position": 1,
+              "uuid": "f94418b67b014bbab3b2a950bc9c9c30",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Polygon",
+                  "about": "[Polygon](https://polygon.technology/) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/5c7d24df013b4aa7911141b599ed0d23/348.png",
+                  "company": {
+                    "domain": "https://polygon.technology/",
+                    "name": "Polygon Technology",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "24e5677d6dee43868247d75fa77e4628"
+                  },
+                  "position": 1,
+                  "uuid": "19862b4742ea40368242e3acaf82b604"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 1,
+              "uuid": "a81e84053a6f4e5ca86e77b980c9810a",
+              "height": null
+            },
+            {
+              "sponsors": [
+                {
+                  "name": "Replit",
+                  "about": "[Replit](https://replit.com/) is the best platform for quickly starting, sharing, and developing projects in any programming language, right from your browser.",
+                  "logo": "https://assets.devfolio.co/hackathons/28bbd4f275b046f5b35698b9727eb71e/sponsors/8d71b280f19a4049900f113ba049d4f0/20.png",
+                  "company": {
+                    "domain": "https://replit.com/",
+                    "name": "Replit",
+                    "verified": false,
+                    "logo": null,
+                    "uuid": "8f1cf12ff2e245aa80ee79e8eefd8b3a"
+                  },
+                  "position": 1,
+                  "uuid": "55a670c106284667abdd732560b006ab"
+                }
+              ],
+              "name": "",
+              "width": 200,
+              "about": null,
+              "position": 2,
+              "uuid": "a2348af99ef84cf0b2aa096641c7f8f4",
+              "height": null
+            }
+          ],
+          "themes": [],
+          "hackathon_setting": {
+            "winner_announce_at": null,
+            "reg_starts_at": "2023-11-30T18:30:00+00:00",
+            "winner_announced": false,
+            "women_only": false,
+            "reg_ends_at": "2024-02-12T18:29:00+00:00",
+            "facebook": "https://www.facebook.com/vipsace",
+            "telegram": null,
+            "medium": null,
+            "instagram": "https://www.instagram.com/acevips/",
+            "linkedin": "https://www.linkedin.com/company/vipsace/",
+            "primary_color": "#03d9fe",
+            "uuid": "4ff8010d76144ab98227130a04b5700a",
+            "contact_email": "ace@vips.edu",
+            "twitter": "https://x.com/VIPS_ACE",
+            "site": "https://hack-vsit.tech/",
+            "discord": "https://discord.gg/eMPgHhKdb8",
+            "review": false,
+            "slack": null,
+            "logo": "https://assets.devfolio.co/hackathons/18fddda3e0fd4b1a8ceddd5292582249/assets/logo/907.png",
+            "subdomain": "hackvsit-5"
+          },
+          "ends_at": "2024-02-17T06:30:00+00:00",
+          "is_online": false,
+          "state": "Delhi",
+          "slug": "hackvsit-5",
+          "team_min": 2,
+          "themed": false,
+          "discover": false,
+          "participants_count": 72,
+          "hackathon_faqs": [
+            {
+              "question": "What is the criteria for shortlisting teams?",
+              "answer": "The registered participants will be shortlisted on the basis of their **Problem Statement, Resume, LinkedIn/Github profiles etc.**",
+              "uuid": "b46c95944acc41ffaff17c535959ace7"
+            },
+            {
+              "question": "I am a beginner, Can I register?",
+              "answer": "YES!! Of course, You can. We, at ACE, support beginner friendly teams and are even reserving a few spots for enthusiastic participants! If you're one of them, you're more than welcome!",
+              "uuid": "b9c6c28b260c405d9121de063edc1bb4"
+            },
+            {
+              "question": "What do I bring with me to the event?",
+              "answer": "You are required to bring your School/College ID, laptops, phone, chargers. A pillow and sleeping bag may be useful as well and any equipment related to your projects.",
+              "uuid": "2b5f62af261846f580661defd37eaa1d"
+            },
+            {
+              "question": "What is the eligibility criteria?",
+              "answer": "This is open to all students. We would love to have your participation. **You must be a student from any University/College or Higher Secondary School.**",
+              "uuid": "7a24f8bfa1194197a0626715c6880c22"
+            },
+            {
+              "question": "What benefits do I get from this hackathon?",
+              "answer": "**Experience, Prizes, Lots of Goodies, Participation Certificate, Networking with Mentors and Industrial Experts, Coffee, and a whole lot of memories.**",
+              "uuid": "d910ebf87eb34218a4c46dea6880d351"
+            },
+            {
+              "question": "Error 404. Question not found.",
+              "answer": "You can ask your queries on our [Discord Server](https://discord.gg/zZNrgktFzP.)",
+              "uuid": "b218d7e5d2a34308b18e28dd4758c6e5"
+            }
+          ],
+          "participants_details": [],
+          "team_size": 4,
+          "verified": true,
+          "prizes": [
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum",
+              "is_sponsor_prize": false,
+              "uuid": "1a72f168359a49cda929f82906d2b5a8",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Best hack built on Ethereum + Polygon",
+              "is_sponsor_prize": false,
+              "uuid": "6977d5ce47794a17b9d533c2d8b68718",
+              "desc": "Get started with Polygon [here](https://nsb.dev/polygon-bounty)."
+            },
+            {
+              "parent_prize_uuid": null,
+              "name": "Winning Project deployed on Replit",
+              "is_sponsor_prize": false,
+              "uuid": "af8e96b594954ca3b5f5948abd5906d5",
+              "desc": "Get started with Replit [here](https://nsb.dev/replit-bounty)."
+            }
+          ],
+          "projects_submitted": 0,
+          "name": "HackVSIT 5.0",
+          "tagline": "North India's Most Influential Hackathon",
+          "location": "Vivekananda Institute of Professional Studies, Outer Ring Road, AU Block, Ranikhet, Pitampura, New Delhi, Delhi, India",
+          "judges": [],
+          "cover_img": "https://assets.devfolio.co/hackathons/18fddda3e0fd4b1a8ceddd5292582249/assets/cover/562.png",
+          "desc": "**HackVSIT 5.0**, hosted at *[Vivekananda institute of Professional Studies (VIPS)](https://vipstc.edu.in/)*, isn’t just a hackathon — its an innovation extravaganza! Organised by [ACE](https://vipsace.org), this event is designed to promote creativity in coding, design, and innovation while providing a platform for technical skills and inspiring real - world solutions. We're all about collaboration, pushing boundaries, and inspiring real-world solutions. What are you waiting for? Seize the opportunity and join us at [HackVSIT 5.0](https://hack-vsit.tech/)!\n\nGot any queries? Ask us on [Discord](https://discord.gg/zZNrgktFzP).\n\n```py\nhackathon = {\n    title = \"HackVSIT 5.0\",\n    tagline = \"North India's Most Influential Hackathon\",\n    startDate = \"Feb 16, 2024, 12:00 PM\",\n    endDate = \"Feb 17, 2024, 12:00 PM\"\n    venue = \"Vivekananda Institute of Professional Studies, Pitampura, Delhi\"\n};\n\nDevfolio.register(hackathon);\n```",
+          "status": "publish",
+          "user_hackathon": null,
+          "user_hackathon_reminder": null
+        }
+      }
+    ]
+  }
+}

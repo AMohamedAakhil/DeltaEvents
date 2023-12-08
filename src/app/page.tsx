@@ -1,7 +1,12 @@
-export default async function Home() {
+import React from 'react'
+import { getFormattedHackathons } from '@/actions/getHackathons'
+
+const Home = async() => {
+  const res = await getFormattedHackathons();
+  console.log(res);
   return (
-    <main>
-     hi
-    </main>
-  );
+    <div>Home</div>
+  )
 }
+
+export default Home

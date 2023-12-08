@@ -1,0 +1,322 @@
+{
+  "hackathons": [
+    {
+      "id": 19229,
+      "title": "Constellation: A Chainlink Hackathon",
+      "displayed_location": {
+        "icon": "globe",
+        "location": "Online"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/618/242/datas/medium_square.png",
+      "analytics_identifier": "Constellation: A Chainlink Hackathon (19229)",
+      "url": "https://constellation-hackathon.devpost.com/",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Nov 08 - Dec 10, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>540,002</span>",
+      "registrations_count": 1908,
+      "featured": false,
+      "organization_name": "Chainlink",
+      "winners_announced": false,
+      "submission_gallery_url": "https://constellation-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://constellation-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19155,
+      "title": "Web5: Building the Decentralized Web",
+      "displayed_location": {
+        "icon": "globe",
+        "location": "Online"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/584/941/datas/medium_square.png",
+      "analytics_identifier": "Web5: Building the Decentralized Web (19155)",
+      "url": "https://web5.devpost.com/",
+      "time_left_to_submission": "about 1 month left",
+      "submission_period_dates": "Nov 13, 2023 - Jan 08, 2024",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>30,000</span>",
+      "registrations_count": 840,
+      "featured": false,
+      "organization_name": "TBD",
+      "winners_announced": false,
+      "submission_gallery_url": "https://web5.devpost.com/project-gallery",
+      "start_a_submission_url": "https://web5.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19038,
+      "title": "NEW HORIZON",
+      "displayed_location": {
+        "icon": "globe",
+        "location": "Online"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/628/266/datas/medium_square.png",
+      "analytics_identifier": "NEW HORIZON (19038)",
+      "url": "https://newhorizon.devpost.com/",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Oct 19 - Dec 11, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>50,000</span>",
+      "registrations_count": 438,
+      "featured": true,
+      "organization_name": "Ripple",
+      "winners_announced": false,
+      "submission_gallery_url": "https://newhorizon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://newhorizon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19204,
+      "title": "Tableau DataDev 2023-2024 Hackathon ",
+      "displayed_location": {
+        "icon": "globe",
+        "location": "Online"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/649/142/datas/medium_square.png",
+      "analytics_identifier": "Tableau DataDev 2023-2024 Hackathon  (19204)",
+      "url": "https://datadev-2024-2023-hackathon.devpost.com/",
+      "time_left_to_submission": "3 months left",
+      "submission_period_dates": "Nov 02, 2023 - Mar 14, 2024",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>14,000</span>",
+      "registrations_count": 497,
+      "featured": true,
+      "organization_name": "Salesforce",
+      "winners_announced": false,
+      "submission_gallery_url": "https://datadev-2024-2023-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://datadev-2024-2023-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19211,
+      "title": "OpenD/I: Shaping Data & Infrastructure for the next 10-20 Years",
+      "displayed_location": {
+        "icon": "globe",
+        "location": "Online"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/673/254/datas/medium_square.png",
+      "analytics_identifier": "OpenD/I: Shaping Data & Infrastructure for the next 10-20 Years (19211)",
+      "url": "https://open.devpost.com/",
+      "time_left_to_submission": "14 days left",
+      "submission_period_dates": "Dec 02 - 22, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 28,
+          "name": "Databases"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>48,500</span>",
+      "registrations_count": 384,
+      "featured": true,
+      "organization_name": "Openmesh Network",
+      "winners_announced": false,
+      "submission_gallery_url": "https://open.devpost.com/project-gallery",
+      "start_a_submission_url": "https://open.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19228,
+      "title": "AMD Code Jam",
+      "displayed_location": {
+        "icon": "globe",
+        "location": "Online"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/604/314/datas/medium_square.png",
+      "analytics_identifier": "AMD Code Jam (19228)",
+      "url": "https://amdcodejam.devpost.com/",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Oct 23 - Dec 11, 2023",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>5,500</span>",
+      "registrations_count": 228,
+      "featured": false,
+      "organization_name": "AMD",
+      "winners_announced": false,
+      "submission_gallery_url": "https://amdcodejam.devpost.com/project-gallery",
+      "start_a_submission_url": "https://amdcodejam.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19839,
+      "title": "Mode DeFi Degen Hack",
+      "displayed_location": {
+        "icon": "globe",
+        "location": "Online"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/686/395/datas/medium_square.png",
+      "analytics_identifier": "Mode DeFi Degen Hack (19839)",
+      "url": "https://mode-defi-degen-hack.devpost.com/",
+      "time_left_to_submission": "14 days left",
+      "submission_period_dates": "Dec 05 - 22, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>15,000</span>",
+      "registrations_count": 162,
+      "featured": true,
+      "organization_name": "Mode",
+      "winners_announced": false,
+      "submission_gallery_url": "https://mode-defi-degen-hack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mode-defi-degen-hack.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19871,
+      "title": "LauzHack 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Ecublens, Switzerland"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/688/235/datas/medium_square.png",
+      "analytics_identifier": "LauzHack 2023 (19871)",
+      "url": "https://lauzhack-2023.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Dec 02 - 09, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 121,
+      "featured": true,
+      "organization_name": "LauzHack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://lauzhack-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://lauzhack-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19495,
+      "title": "Building Privacy in Web3 - Powered by Partisia's MPC",
+      "displayed_location": {
+        "icon": "globe",
+        "location": "Online"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/662/251/datas/medium_square.png",
+      "analytics_identifier": "Building Privacy in Web3 - Powered by Partisia's MPC (19495)",
+      "url": "https://partisiablockchain.devpost.com/",
+      "time_left_to_submission": "about 2 months left",
+      "submission_period_dates": "Nov 27, 2023 - Jan 30, 2024",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>20,000</span>",
+      "registrations_count": 87,
+      "featured": false,
+      "organization_name": "Partisia Blockchain Foundation",
+      "winners_announced": false,
+      "submission_gallery_url": "https://partisiablockchain.devpost.com/project-gallery",
+      "start_a_submission_url": "https://partisiablockchain.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    }
+  ],
+  "meta": {
+    "total_count": 8876,
+    "per_page": 9,
+    "fuzzy": false
+  }
+}
