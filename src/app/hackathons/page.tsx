@@ -12,9 +12,9 @@ interface HackathonCardProps {
 export default async function Hackathons () {
   const hackathons = await getFormattedHackathons();
   return (
-    <div className="w-full h-screen p-5 bg-black text-white">
+    <div className="w-full h-full p-5 text-white">
         <div className="text-3xl font-bold">Hackathons</div>
-        <div className="grid grid-cols-3 gap-4">
+        <div className="flex flex-col lg:grid lg:grid-cols-3 lg:gap-4">
           {
               hackathons.map((hackathon: HackathonCardProps) => {
                   return <HackathonCard name={hackathon.name} date={hackathon.date} location={hackathon.location} description={hackathon.description} url={hackathon.url} />
