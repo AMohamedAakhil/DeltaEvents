@@ -2,6 +2,7 @@ import "@/styles/globals.css";
 
 import { Inter } from "next/font/google";
 import { cookies } from "next/headers";
+import { ThemeProvider } from "@/components/theme-provider"
 
 import { TRPCReactProvider } from "@/trpc/react";
 
@@ -23,9 +24,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`font-sans ${inter.variable} bg-black`}>
+      <body className={`font-sans ${inter.variable}`}>
         <TRPCReactProvider cookies={cookies().toString()}>
+        <ThemeProvider
+            attribute="class"
+            defaultTheme="dark"
+            enableSystem
+            disableTransitionOnChange
+          >
           {children}
+          </ThemeProvider>
         </TRPCReactProvider>
       </body>
     </html>
