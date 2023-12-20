@@ -1,6 +1,5 @@
 import React from "react";
 import { getFormattedHackathons } from "@/actions/getHackathons";
-import { Skeleton } from "@/components/ui/skeleton";
 
 interface HackathonCardProps {
   from: string;
@@ -59,7 +58,7 @@ async function HackathonCard(props: HackathonCardProps) {
       <a
         href={props.url}
         target="_blank"
-        className="mt-5 h-[12rem] w-full space-y-2 rounded-2xl border border-slate-300 bg-black p-5 transition-all duration-100 hover:bg-slate-800"
+        className="mt-5 h-[12rem] w-full space-y-2 rounded-2xl border border-slate-800 bg-slate-950 p-5 transition-all duration-100 hover:bg-slate-900"
       >
         <div className="truncate text-2xl font-bold">{props.name}</div>
         <div>
@@ -124,7 +123,7 @@ async function HackathonCard(props: HackathonCardProps) {
       <a
         href={props.url}
         target="_blank"
-        className="mt-5 h-[12rem] w-full space-y-2 rounded-2xl border border-slate-300 bg-black p-5 transition-all duration-100 hover:bg-slate-800"
+        className="mt-5 h-[12rem] w-full space-y-2 rounded-2xl border border-slate-800 bg-slate-950 p-5 transition-all duration-100 hover:bg-slate-900"
       >
         <div className="truncate text-2xl font-bold">{props.name}</div>
         <div>
@@ -157,7 +156,7 @@ async function HackathonCard(props: HackathonCardProps) {
       <a
         href={props.url}
         target="_blank"
-        className="mt-5 h-[12rem] w-full space-y-2 rounded-2xl border border-slate-300 bg-black p-5 transition-all duration-100 hover:bg-slate-800"
+        className="mt-5 h-[12rem] w-full space-y-2 rounded-2xl border border-slate-800 bg-slate-950 p-5 transition-all duration-100 hover:bg-slate-900"
       >
         <div className="truncate text-2xl font-bold">{props.name}</div>
         <div>
